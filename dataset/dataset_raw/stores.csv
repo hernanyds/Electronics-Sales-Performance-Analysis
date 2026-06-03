@@ -1,0 +1,90 @@
+store_id,store_name_raw,channel_raw,channel_clean_reference,country,state,city,region
+STR-001,Los Angeles - Retail Store,Retail Store,Retail Store,United States,California,Los Angeles,West
+STR-002,Los Angeles Online Store,Website,Online Store,United States,California,Los Angeles,West
+STR-003, Los Angeles Marketplace ,Marketplace,Marketplace,United States,California,Los Angeles,West
+STR-004, San Diego Retail Store ,Retail Store,Retail Store,United States,California,San Diego,West
+STR-005,San Diego - Online Store,Web Store,Online Store,United States,California,San Diego,West
+STR-006,San Diego - Marketplace,Marketplace,Marketplace,United States,California,San Diego,West
+STR-007,San Francisco - Retail Store,Retail Store,Retail Store,United States,California,San Francisco,West
+STR-008,San Francisco - Online Store,online,Online Store,United States,California,San Francisco,West
+STR-009,San Francisco Marketplace,Marketplace,Marketplace,United States,California,San Francisco,West
+STR-010, Seattle Retail Store ,Retail Store,Retail Store,United States,Washington,Seattle,West
+STR-011,Seattle Online Store,Online Store,Online Store,United States,Washington,Seattle,West
+STR-012,Seattle - Marketplace,Marketplace,Marketplace,United States,Washington,Seattle,West
+STR-013,Portland - Retail Store,Retail Store,Retail Store,United States,Oregon,Portland,West
+STR-014, Portland Online Store ,Online Store,Online Store,United States,Oregon,Portland,West
+STR-015,Portland Marketplace,Marketplace,Marketplace,United States,Oregon,Portland,West
+STR-016,Las Vegas Retail Store,Retail Store,Retail Store,United States,Nevada,Las Vegas,West
+STR-017,Las Vegas - Online Store,Online Store,Online Store,United States,Nevada,Las Vegas,West
+STR-018, Las Vegas Marketplace ,Marketplace,Marketplace,United States,Nevada,Las Vegas,West
+STR-019, Phoenix Retail Store ,Retail Store,Retail Store,United States,Arizona,Phoenix,West
+STR-020,Phoenix Online Store,Online Store,Online Store,United States,Arizona,Phoenix,West
+STR-021,Phoenix - Marketplace,Marketplace,Marketplace,United States,Arizona,Phoenix,West
+STR-022,Denver Retail Store,Retail Store,Retail Store,United States,Colorado,Denver,West
+STR-023,Denver - Online Store,Online Store,Online Store,United States,Colorado,Denver,West
+STR-024, Denver Marketplace ,Marketplace,Marketplace,United States,Colorado,Denver,West
+STR-025,Houston Retail Store,Retail Store,Retail Store,United States,Texas,Houston,South
+STR-026,Houston - Online Store,online,Online Store,United States,Texas,Houston,South
+STR-027,Houston Marketplace,Marketplace,Marketplace,United States,Texas,Houston,South
+STR-028,Dallas - Retail Store, Retail Store ,Retail Store,United States,Texas,Dallas,South
+STR-029, Dallas Online Store ,online,Online Store,United States,Texas,Dallas,South
+STR-030,Dallas - Marketplace,Marketplace,Marketplace,United States,Texas,Dallas,South
+STR-031,Miami Retail Store,Retail Store,Retail Store,United States,Florida,Miami,South
+STR-032, Miami Online Store ,Online Store,Online Store,United States,Florida,Miami,South
+STR-033, Miami Marketplace ,Marketplace,Marketplace,United States,Florida,Miami,South
+STR-034, Orlando Retail Store ,Retail Store,Retail Store,United States,Florida,Orlando,South
+STR-035,Orlando - Online Store,Online Store,Online Store,United States,Florida,Orlando,South
+STR-036,Orlando - Marketplace,Marketplace,Marketplace,United States,Florida,Orlando,South
+STR-037,Atlanta - Retail Store,Retail Store,Retail Store,United States,Georgia,Atlanta,South
+STR-038,Atlanta Online Store,Online Store,Online Store,United States,Georgia,Atlanta,South
+STR-039,Atlanta Marketplace,Marketplace,Marketplace,United States,Georgia,Atlanta,South
+STR-040,Charlotte - Retail Store,Retail Store,Retail Store,United States,North Carolina,Charlotte,South
+STR-041, Charlotte Online Store ,Online Store,Online Store,United States,North Carolina,Charlotte,South
+STR-042, Charlotte Marketplace ,Marketplace,Marketplace,United States,North Carolina,Charlotte,South
+STR-043, Nashville Retail Store ,Retail Store,Retail Store,United States,Tennessee,Nashville,South
+STR-044,Nashville - Online Store,Online Store,Online Store,United States,Tennessee,Nashville,South
+STR-045,Nashville Marketplace,Marketplace,Marketplace,United States,Tennessee,Nashville,South
+STR-046,Chicago Retail Store,Retail Store,Retail Store,United States,Illinois,Chicago,Midwest
+STR-047,Chicago Online Store,Online Store,Online Store,United States,Illinois,Chicago,Midwest
+STR-048, Chicago Marketplace ,Marketplace,Marketplace,United States,Illinois,Chicago,Midwest
+STR-049,Columbus - Retail Store, Retail Store ,Retail Store,United States,Ohio,Columbus,Midwest
+STR-050, Columbus Online Store ,online,Online Store,United States,Ohio,Columbus,Midwest
+STR-051, Columbus Marketplace ,Marketplace,Marketplace,United States,Ohio,Columbus,Midwest
+STR-052,Detroit - Retail Store,Offline,Retail Store,United States,Michigan,Detroit,Midwest
+STR-053,Detroit - Online Store,Online Store,Online Store,United States,Michigan,Detroit,Midwest
+STR-054,Detroit - Marketplace,Marketplace,Marketplace,United States,Michigan,Detroit,Midwest
+STR-055,Minneapolis Retail Store,Retail Store,Retail Store,United States,Minnesota,Minneapolis,Midwest
+STR-056,Minneapolis - Online Store,Online Store,Online Store,United States,Minnesota,Minneapolis,Midwest
+STR-057,Minneapolis Marketplace,Market place,Marketplace,United States,Minnesota,Minneapolis,Midwest
+STR-058, Kansas City Retail Store ,Retail Store,Retail Store,United States,Missouri,Kansas City,Midwest
+STR-059,Kansas City - Online Store,Online Store,Online Store,United States,Missouri,Kansas City,Midwest
+STR-060,Kansas City - Marketplace, Marketplace ,Marketplace,United States,Missouri,Kansas City,Midwest
+STR-061,Indianapolis - Retail Store,Retail Store,Retail Store,United States,Indiana,Indianapolis,Midwest
+STR-062, Indianapolis Online Store ,Online Store,Online Store,United States,Indiana,Indianapolis,Midwest
+STR-063, Indianapolis Marketplace ,Marketplace,Marketplace,United States,Indiana,Indianapolis,Midwest
+STR-064,New York Retail Store,Retail Store,Retail Store,United States,New York,New York,Northeast
+STR-065, New York Online Store ,Online Store,Online Store,United States,New York,New York,Northeast
+STR-066,New York Marketplace,MP,Marketplace,United States,New York,New York,Northeast
+STR-067, Boston Retail Store ,Retail Store,Retail Store,United States,Massachusetts,Boston,Northeast
+STR-068,Boston - Online Store,Online Store,Online Store,United States,Massachusetts,Boston,Northeast
+STR-069, Boston Marketplace ,Marketplace,Marketplace,United States,Massachusetts,Boston,Northeast
+STR-070,Philadelphia - Retail Store,Retail Store,Retail Store,United States,Pennsylvania,Philadelphia,Northeast
+STR-071,Philadelphia Online Store,Online Store,Online Store,United States,Pennsylvania,Philadelphia,Northeast
+STR-072,Philadelphia - Marketplace,Marketplace,Marketplace,United States,Pennsylvania,Philadelphia,Northeast
+STR-073,Newark - Retail Store,Retail Store,Retail Store,United States,New Jersey,Newark,Northeast
+STR-074,Newark - Online Store,Web Store,Online Store,United States,New Jersey,Newark,Northeast
+STR-075,Newark Marketplace,Marketplace,Marketplace,United States,New Jersey,Newark,Northeast
+STR-076,Baltimore - Retail Store,Retail Store,Retail Store,United States,Maryland,Baltimore,Northeast
+STR-077,Baltimore - Online Store,Online Store,Online Store,United States,Maryland,Baltimore,Northeast
+STR-078, Baltimore Marketplace ,Marketplace,Marketplace,United States,Maryland,Baltimore,Northeast
+STR-079, Arlington Retail Store ,Retail Store,Retail Store,United States,Virginia,Arlington,Northeast
+STR-080, Arlington Online Store ,Online Store,Online Store,United States,Virginia,Arlington,Northeast
+STR-081,Arlington - Marketplace,Marketplace,Marketplace,United States,Virginia,Arlington,Northeast
+STR-082,West Social Commerce,Social Commerce,Social Commerce,United States,Multiple,Virtual,West
+STR-083,West B2B Sales,B2B Sales,B2B Sales,United States,Multiple,Virtual,West
+STR-084,South Social Commerce,Social Commerce,Social Commerce,United States,Multiple,Virtual,South
+STR-085,South B2B Sales,B2B Sales,B2B Sales,United States,Multiple,Virtual,South
+STR-086,Midwest Social Commerce,Social Commerce,Social Commerce,United States,Multiple,Virtual,Midwest
+STR-087,Midwest B2B Sales,B2B Sales,B2B Sales,United States,Multiple,Virtual,Midwest
+STR-088,Northeast Social Commerce,Social Commerce,Social Commerce,United States,Multiple,Virtual,Northeast
+STR-089,Northeast B2B Sales,B2B Sales,B2B Sales,United States,Multiple,Virtual,Northeast

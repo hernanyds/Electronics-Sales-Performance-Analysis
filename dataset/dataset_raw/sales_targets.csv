@@ -1,0 +1,481 @@
+target_month,region,category_clean_reference,sales_target,profit_target
+2024-01-01,West,Computers,514971.41,86692.25
+2024-01-01,West,Mobile Devices,468907.59,70644.09
+2024-01-01,West,Home Entertainment,370565.21,40922.38
+2024-01-01,West,Appliances,319763.65,37716.22
+2024-01-01,West,Cameras,205679.11,32001.33
+2024-01-01,South,Computers,526741.4,90717.03
+2024-01-01,South,Mobile Devices,381345.11,64703.57
+2024-01-01,South,Home Entertainment,312253.03,44328.65
+2024-01-01,South,Appliances,271128.33,36730.03
+2024-01-01,South,Cameras,210226.04,25430.2
+2024-01-01,Midwest,Computers,433562.4,70433.16
+2024-01-01,Midwest,Mobile Devices,324982.04,53715.38
+2024-01-01,Midwest,Home Entertainment,281673.46,43526.79
+2024-01-01,Midwest,Appliances,200469.33,26669.66
+2024-01-01,Midwest,Cameras,157030.84,23152.39
+2024-01-01,Northeast,Computers,447493.63,68714.32
+2024-01-01,Northeast,Mobile Devices,337319.48,47324.34
+2024-01-01,Northeast,Home Entertainment,302026.44,54072.05
+2024-01-01,Northeast,Appliances,216150.19,26311.12
+2024-01-01,Northeast,Cameras,170400.22,26700.78
+2024-02-01,West,Computers,583941.16,70526.71
+2024-02-01,West,Mobile Devices,471145.74,64984.04
+2024-02-01,West,Home Entertainment,377544.86,56806.72
+2024-02-01,West,Appliances,319052.37,39569.48
+2024-02-01,West,Cameras,238007.05,42270.49
+2024-02-01,South,Computers,528508.12,83962.18
+2024-02-01,South,Mobile Devices,442405.1,68070.7
+2024-02-01,South,Home Entertainment,328512.43,37652.03
+2024-02-01,South,Appliances,267254.27,46089.97
+2024-02-01,South,Cameras,207898.39,32857.3
+2024-02-01,Midwest,Computers,361071.17,50789.89
+2024-02-01,Midwest,Mobile Devices,306937.45,50125.56
+2024-02-01,Midwest,Home Entertainment,246585.58,40975.78
+2024-02-01,Midwest,Appliances,228452.92,26412.11
+2024-02-01,Midwest,Cameras,147408.33,23931.32
+2024-02-01,Northeast,Computers,418081.09,52941.45
+2024-02-01,Northeast,Mobile Devices,413398.63,56657.66
+2024-02-01,Northeast,Home Entertainment,271679.36,31589.08
+2024-02-01,Northeast,Appliances,224976.41,34481.11
+2024-02-01,Northeast,Cameras,161174.21,26936.59
+2024-03-01,West,Computers,524710.78,85687.47
+2024-03-01,West,Mobile Devices,450294.99,65897.89
+2024-03-01,West,Home Entertainment,352089.3,44098.86
+2024-03-01,West,Appliances,339989.14,47583.02
+2024-03-01,West,Cameras,248555.21,37645.62
+2024-03-01,South,Computers,511996.0,69659.88
+2024-03-01,South,Mobile Devices,380930.41,63488.2
+2024-03-01,South,Home Entertainment,302528.31,47769.25
+2024-03-01,South,Appliances,273904.99,31370.72
+2024-03-01,South,Cameras,172840.91,22372.07
+2024-03-01,Midwest,Computers,356556.69,58769.21
+2024-03-01,Midwest,Mobile Devices,304288.95,50869.63
+2024-03-01,Midwest,Home Entertainment,267219.69,38668.67
+2024-03-01,Midwest,Appliances,227542.04,37892.56
+2024-03-01,Midwest,Cameras,144473.22,21181.8
+2024-03-01,Northeast,Computers,463245.61,75630.53
+2024-03-01,Northeast,Mobile Devices,347052.7,61565.52
+2024-03-01,Northeast,Home Entertainment,322554.04,56067.51
+2024-03-01,Northeast,Appliances,267128.97,30991.91
+2024-03-01,Northeast,Cameras,178216.61,29699.99
+2024-04-01,West,Computers,585002.35,86265.22
+2024-04-01,West,Mobile Devices,441042.96,78129.18
+2024-04-01,West,Home Entertainment,380486.82,65752.4
+2024-04-01,West,Appliances,290318.63,46794.0
+2024-04-01,West,Cameras,252053.48,37047.04
+2024-04-01,South,Computers,525870.95,62638.46
+2024-04-01,South,Mobile Devices,411975.38,48351.82
+2024-04-01,South,Home Entertainment,292415.28,40125.8
+2024-04-01,South,Appliances,293134.08,45202.22
+2024-04-01,South,Cameras,180738.23,21980.3
+2024-04-01,Midwest,Computers,397884.12,65685.99
+2024-04-01,Midwest,Mobile Devices,355389.31,59383.3
+2024-04-01,Midwest,Home Entertainment,244215.92,31542.26
+2024-04-01,Midwest,Appliances,218683.56,32946.09
+2024-04-01,Midwest,Cameras,180495.81,31424.99
+2024-04-01,Northeast,Computers,488875.83,73037.82
+2024-04-01,Northeast,Mobile Devices,362235.83,62568.32
+2024-04-01,Northeast,Home Entertainment,287618.95,46646.22
+2024-04-01,Northeast,Appliances,223543.88,38946.9
+2024-04-01,Northeast,Cameras,191687.69,29184.18
+2024-05-01,West,Computers,533303.45,77717.84
+2024-05-01,West,Mobile Devices,544197.22,71758.86
+2024-05-01,West,Home Entertainment,394459.2,52973.57
+2024-05-01,West,Appliances,311163.75,46119.28
+2024-05-01,West,Cameras,253659.75,38175.76
+2024-05-01,South,Computers,494311.56,88185.04
+2024-05-01,South,Mobile Devices,421767.04,51907.93
+2024-05-01,South,Home Entertainment,356194.35,59271.18
+2024-05-01,South,Appliances,272749.9,43786.63
+2024-05-01,South,Cameras,206781.68,25709.34
+2024-05-01,Midwest,Computers,357245.13,57120.88
+2024-05-01,Midwest,Mobile Devices,315090.2,48308.62
+2024-05-01,Midwest,Home Entertainment,293872.99,32953.48
+2024-05-01,Midwest,Appliances,235904.03,26179.86
+2024-05-01,Midwest,Cameras,172491.09,29155.82
+2024-05-01,Northeast,Computers,479446.37,69956.75
+2024-05-01,Northeast,Mobile Devices,383652.64,68901.98
+2024-05-01,Northeast,Home Entertainment,322389.21,45292.48
+2024-05-01,Northeast,Appliances,225024.8,27345.17
+2024-05-01,Northeast,Cameras,167118.61,23096.27
+2024-06-01,West,Computers,579753.62,72932.99
+2024-06-01,West,Mobile Devices,499614.25,75893.78
+2024-06-01,West,Home Entertainment,369984.76,56545.98
+2024-06-01,West,Appliances,296864.36,45394.87
+2024-06-01,West,Cameras,228734.3,34993.32
+2024-06-01,South,Computers,438048.81,76287.93
+2024-06-01,South,Mobile Devices,420696.7,60502.61
+2024-06-01,South,Home Entertainment,308014.35,48017.31
+2024-06-01,South,Appliances,280198.88,32425.17
+2024-06-01,South,Cameras,187117.74,31889.33
+2024-06-01,Midwest,Computers,415724.37,61758.1
+2024-06-01,Midwest,Mobile Devices,364531.79,61122.22
+2024-06-01,Midwest,Home Entertainment,272830.85,44911.69
+2024-06-01,Midwest,Appliances,241836.18,41578.46
+2024-06-01,Midwest,Cameras,165057.64,26004.8
+2024-06-01,Northeast,Computers,457809.43,68453.56
+2024-06-01,Northeast,Mobile Devices,382013.95,48355.67
+2024-06-01,Northeast,Home Entertainment,298768.11,38359.49
+2024-06-01,Northeast,Appliances,229506.76,35045.75
+2024-06-01,Northeast,Cameras,158203.74,21039.14
+2024-07-01,West,Computers,714310.43,113351.64
+2024-07-01,West,Mobile Devices,495425.7,80741.06
+2024-07-01,West,Home Entertainment,485306.8,55507.08
+2024-07-01,West,Appliances,324455.24,48624.5
+2024-07-01,West,Cameras,291861.94,46245.27
+2024-07-01,South,Computers,516460.42,83050.64
+2024-07-01,South,Mobile Devices,511766.81,64419.23
+2024-07-01,South,Home Entertainment,368487.34,54779.65
+2024-07-01,South,Appliances,284165.84,50752.73
+2024-07-01,South,Cameras,250171.97,27975.02
+2024-07-01,Midwest,Computers,502819.67,70504.63
+2024-07-01,Midwest,Mobile Devices,387914.78,57495.02
+2024-07-01,Midwest,Home Entertainment,322205.09,51208.19
+2024-07-01,Midwest,Appliances,227232.57,26074.71
+2024-07-01,Midwest,Cameras,207841.63,36406.74
+2024-07-01,Northeast,Computers,542713.31,69062.69
+2024-07-01,Northeast,Mobile Devices,400729.57,58231.8
+2024-07-01,Northeast,Home Entertainment,313547.3,38264.19
+2024-07-01,Northeast,Appliances,287675.45,44634.78
+2024-07-01,Northeast,Cameras,184592.91,23831.32
+2024-08-01,West,Computers,566107.82,88734.89
+2024-08-01,West,Mobile Devices,518302.03,67201.01
+2024-08-01,West,Home Entertainment,337527.09,56099.68
+2024-08-01,West,Appliances,321571.67,42722.26
+2024-08-01,West,Cameras,230520.27,27819.09
+2024-08-01,South,Computers,507743.62,83561.52
+2024-08-01,South,Mobile Devices,405536.9,60596.57
+2024-08-01,South,Home Entertainment,321152.9,37495.84
+2024-08-01,South,Appliances,292658.46,52251.07
+2024-08-01,South,Cameras,198882.48,26307.15
+2024-08-01,Midwest,Computers,404739.33,57917.46
+2024-08-01,Midwest,Mobile Devices,312956.17,34558.62
+2024-08-01,Midwest,Home Entertainment,285743.45,43367.59
+2024-08-01,Midwest,Appliances,233018.1,37115.76
+2024-08-01,Midwest,Cameras,143692.87,16504.05
+2024-08-01,Northeast,Computers,489998.09,81034.76
+2024-08-01,Northeast,Mobile Devices,415886.81,52911.58
+2024-08-01,Northeast,Home Entertainment,309374.36,55256.22
+2024-08-01,Northeast,Appliances,254983.42,36971.26
+2024-08-01,Northeast,Cameras,191794.15,31313.83
+2024-09-01,West,Computers,575328.16,102435.68
+2024-09-01,West,Mobile Devices,625946.02,98311.2
+2024-09-01,West,Home Entertainment,436259.44,66101.66
+2024-09-01,West,Appliances,356806.81,46543.18
+2024-09-01,West,Cameras,275024.87,36238.18
+2024-09-01,South,Computers,526413.62,65800.52
+2024-09-01,South,Mobile Devices,475449.08,82358.76
+2024-09-01,South,Home Entertainment,372638.58,49279.12
+2024-09-01,South,Appliances,313160.26,50217.33
+2024-09-01,South,Cameras,220657.03,34747.12
+2024-09-01,Midwest,Computers,479551.33,80035.89
+2024-09-01,Midwest,Mobile Devices,406710.49,63051.13
+2024-09-01,Midwest,Home Entertainment,309832.56,35713.13
+2024-09-01,Midwest,Appliances,277627.52,41833.62
+2024-09-01,Midwest,Cameras,167721.31,20645.91
+2024-09-01,Northeast,Computers,454844.58,62667.46
+2024-09-01,Northeast,Mobile Devices,471705.65,80130.15
+2024-09-01,Northeast,Home Entertainment,310293.76,36941.33
+2024-09-01,Northeast,Appliances,268962.11,35903.78
+2024-09-01,Northeast,Cameras,211045.0,36400.94
+2024-10-01,West,Computers,597526.53,102149.8
+2024-10-01,West,Mobile Devices,467148.14,72946.76
+2024-10-01,West,Home Entertainment,332841.95,47922.91
+2024-10-01,West,Appliances,325581.88,55390.18
+2024-10-01,West,Cameras,214277.13,29042.89
+2024-10-01,South,Computers,432287.43,63789.66
+2024-10-01,South,Mobile Devices,399214.76,66155.37
+2024-10-01,South,Home Entertainment,294012.62,51647.35
+2024-10-01,South,Appliances,258676.82,33491.99
+2024-10-01,South,Cameras,203610.12,29377.54
+2024-10-01,Midwest,Computers,367138.11,41977.26
+2024-10-01,Midwest,Mobile Devices,337523.67,46019.99
+2024-10-01,Midwest,Home Entertainment,271512.97,31244.91
+2024-10-01,Midwest,Appliances,209058.61,27481.16
+2024-10-01,Midwest,Cameras,142305.79,19058.19
+2024-10-01,Northeast,Computers,477954.1,53142.6
+2024-10-01,Northeast,Mobile Devices,353077.22,57805.14
+2024-10-01,Northeast,Home Entertainment,311787.83,35327.35
+2024-10-01,Northeast,Appliances,259131.89,29626.83
+2024-10-01,Northeast,Cameras,169793.23,28405.71
+2024-11-01,West,Computers,860063.91,102050.66
+2024-11-01,West,Mobile Devices,787808.04,125164.15
+2024-11-01,West,Home Entertainment,497949.72,61199.09
+2024-11-01,West,Appliances,465744.97,60756.01
+2024-11-01,West,Cameras,352904.44,53430.86
+2024-11-01,South,Computers,642598.62,77917.23
+2024-11-01,South,Mobile Devices,619866.24,108778.77
+2024-11-01,South,Home Entertainment,485196.31,59702.32
+2024-11-01,South,Appliances,398149.41,55255.48
+2024-11-01,South,Cameras,281443.06,32994.46
+2024-11-01,Midwest,Computers,513151.49,75881.77
+2024-11-01,Midwest,Mobile Devices,451606.66,73593.32
+2024-11-01,Midwest,Home Entertainment,370075.89,53166.55
+2024-11-01,Midwest,Appliances,285860.07,43952.4
+2024-11-01,Midwest,Cameras,237311.75,26591.21
+2024-11-01,Northeast,Computers,687734.77,104228.64
+2024-11-01,Northeast,Mobile Devices,548360.61,79037.6
+2024-11-01,Northeast,Home Entertainment,407099.52,52427.01
+2024-11-01,Northeast,Appliances,328381.45,56585.8
+2024-11-01,Northeast,Cameras,257437.66,34069.95
+2024-12-01,West,Computers,762750.39,129360.14
+2024-12-01,West,Mobile Devices,762356.66,130518.99
+2024-12-01,West,Home Entertainment,608778.41,100865.02
+2024-12-01,West,Appliances,492176.68,56160.07
+2024-12-01,West,Cameras,326943.85,41710.14
+2024-12-01,South,Computers,628905.77,78631.63
+2024-12-01,South,Mobile Devices,568916.95,91853.21
+2024-12-01,South,Home Entertainment,456729.03,60805.73
+2024-12-01,South,Appliances,349653.29,62817.01
+2024-12-01,South,Cameras,297914.36,35962.71
+2024-12-01,Midwest,Computers,523891.8,87405.82
+2024-12-01,Midwest,Mobile Devices,451128.07,71176.17
+2024-12-01,Midwest,Home Entertainment,402846.6,53468.5
+2024-12-01,Midwest,Appliances,298490.59,34972.28
+2024-12-01,Midwest,Cameras,230142.16,26293.13
+2024-12-01,Northeast,Computers,609685.13,99589.72
+2024-12-01,Northeast,Mobile Devices,585549.12,87725.07
+2024-12-01,Northeast,Home Entertainment,383265.21,56687.9
+2024-12-01,Northeast,Appliances,377008.75,46615.32
+2024-12-01,Northeast,Cameras,244649.24,41467.21
+2025-01-01,West,Computers,611523.75,74601.34
+2025-01-01,West,Mobile Devices,515234.13,68741.1
+2025-01-01,West,Home Entertainment,416964.21,59214.08
+2025-01-01,West,Appliances,291640.88,43305.0
+2025-01-01,West,Cameras,235566.07,32410.36
+2025-01-01,South,Computers,457144.62,50355.29
+2025-01-01,South,Mobile Devices,412779.95,55403.36
+2025-01-01,South,Home Entertainment,288068.53,33912.1
+2025-01-01,South,Appliances,274864.19,46723.71
+2025-01-01,South,Cameras,214132.68,27407.91
+2025-01-01,Midwest,Computers,427470.13,62175.03
+2025-01-01,Midwest,Mobile Devices,307486.37,46820.36
+2025-01-01,Midwest,Home Entertainment,261557.97,32386.67
+2025-01-01,Midwest,Appliances,197048.63,26278.57
+2025-01-01,Midwest,Cameras,173297.79,26111.92
+2025-01-01,Northeast,Computers,491982.33,83688.91
+2025-01-01,Northeast,Mobile Devices,412180.72,69622.55
+2025-01-01,Northeast,Home Entertainment,259836.3,40085.94
+2025-01-01,Northeast,Appliances,251979.24,31246.26
+2025-01-01,Northeast,Cameras,182986.03,26315.01
+2025-02-01,West,Computers,617511.1,100936.75
+2025-02-01,West,Mobile Devices,472894.93,57928.27
+2025-02-01,West,Home Entertainment,373847.0,46927.23
+2025-02-01,West,Appliances,284990.51,31953.35
+2025-02-01,West,Cameras,227149.44,35729.95
+2025-02-01,South,Computers,468390.57,73021.68
+2025-02-01,South,Mobile Devices,430053.09,56301.94
+2025-02-01,South,Home Entertainment,305271.89,54848.41
+2025-02-01,South,Appliances,248755.03,30991.7
+2025-02-01,South,Cameras,177415.5,19741.83
+2025-02-01,Midwest,Computers,379085.37,53680.67
+2025-02-01,Midwest,Mobile Devices,381062.77,64948.94
+2025-02-01,Midwest,Home Entertainment,279758.98,39830.29
+2025-02-01,Midwest,Appliances,226215.66,38767.53
+2025-02-01,Midwest,Cameras,149400.73,18055.45
+2025-02-01,Northeast,Computers,392636.35,55065.62
+2025-02-01,Northeast,Mobile Devices,379400.96,43397.07
+2025-02-01,Northeast,Home Entertainment,271654.78,37080.26
+2025-02-01,Northeast,Appliances,240503.08,39068.74
+2025-02-01,Northeast,Cameras,172165.3,27185.29
+2025-03-01,West,Computers,567323.9,95061.88
+2025-03-01,West,Mobile Devices,428391.24,59666.55
+2025-03-01,West,Home Entertainment,344469.52,40887.42
+2025-03-01,West,Appliances,344076.79,58477.33
+2025-03-01,West,Cameras,215086.68,37743.34
+2025-03-01,South,Computers,484517.03,65034.94
+2025-03-01,South,Mobile Devices,442073.77,75919.26
+2025-03-01,South,Home Entertainment,342273.59,55643.79
+2025-03-01,South,Appliances,267368.11,29850.45
+2025-03-01,South,Cameras,177623.09,31467.64
+2025-03-01,Midwest,Computers,394902.41,52222.42
+2025-03-01,Midwest,Mobile Devices,318963.98,40386.61
+2025-03-01,Midwest,Home Entertainment,279667.61,43884.03
+2025-03-01,Midwest,Appliances,214611.77,37216.74
+2025-03-01,Midwest,Cameras,154645.01,22440.75
+2025-03-01,Northeast,Computers,454907.88,64881.14
+2025-03-01,Northeast,Mobile Devices,379350.98,60635.23
+2025-03-01,Northeast,Home Entertainment,307622.37,37214.86
+2025-03-01,Northeast,Appliances,248535.33,32629.74
+2025-03-01,Northeast,Cameras,185208.81,32907.79
+2025-04-01,West,Computers,615728.39,79530.19
+2025-04-01,West,Mobile Devices,518305.42,80684.77
+2025-04-01,West,Home Entertainment,388668.99,55400.92
+2025-04-01,West,Appliances,302945.05,33548.84
+2025-04-01,West,Cameras,237792.85,32949.1
+2025-04-01,South,Computers,482393.93,83965.75
+2025-04-01,South,Mobile Devices,409502.95,53135.07
+2025-04-01,South,Home Entertainment,331116.26,44961.29
+2025-04-01,South,Appliances,277369.75,42903.14
+2025-04-01,South,Cameras,192099.07,30046.39
+2025-04-01,Midwest,Computers,395544.56,53273.22
+2025-04-01,Midwest,Mobile Devices,354190.35,46742.02
+2025-04-01,Midwest,Home Entertainment,271676.76,44299.01
+2025-04-01,Midwest,Appliances,227552.97,38905.62
+2025-04-01,Midwest,Cameras,166904.21,19570.7
+2025-04-01,Northeast,Computers,420808.41,50758.48
+2025-04-01,Northeast,Mobile Devices,362426.88,61869.96
+2025-04-01,Northeast,Home Entertainment,309409.95,55461.75
+2025-04-01,Northeast,Appliances,252216.24,37402.51
+2025-04-01,Northeast,Cameras,190327.39,24399.69
+2025-05-01,West,Computers,545921.3,85915.9
+2025-05-01,West,Mobile Devices,452443.97,73845.96
+2025-05-01,West,Home Entertainment,356969.11,44407.45
+2025-05-01,West,Appliances,289818.92,49659.19
+2025-05-01,West,Cameras,254623.13,43692.08
+2025-05-01,South,Computers,480203.09,83470.65
+2025-05-01,South,Mobile Devices,379702.35,64453.92
+2025-05-01,South,Home Entertainment,322038.58,52091.42
+2025-05-01,South,Appliances,238364.66,39742.44
+2025-05-01,South,Cameras,213746.07,27496.58
+2025-05-01,Midwest,Computers,443947.3,72482.31
+2025-05-01,Midwest,Mobile Devices,318843.21,38335.07
+2025-05-01,Midwest,Home Entertainment,279148.25,32998.25
+2025-05-01,Midwest,Appliances,244429.65,32880.18
+2025-05-01,Midwest,Cameras,144965.75,22948.39
+2025-05-01,Northeast,Computers,449108.42,71373.32
+2025-05-01,Northeast,Mobile Devices,414387.13,68901.65
+2025-05-01,Northeast,Home Entertainment,292792.21,35804.33
+2025-05-01,Northeast,Appliances,217694.3,27972.45
+2025-05-01,Northeast,Cameras,171026.47,21358.06
+2025-06-01,West,Computers,601159.31,84696.93
+2025-06-01,West,Mobile Devices,484973.21,82666.36
+2025-06-01,West,Home Entertainment,338334.86,52086.94
+2025-06-01,West,Appliances,296873.04,38074.33
+2025-06-01,West,Cameras,207078.21,27989.79
+2025-06-01,South,Computers,499605.05,79502.66
+2025-06-01,South,Mobile Devices,398000.9,63588.17
+2025-06-01,South,Home Entertainment,313498.43,48309.93
+2025-06-01,South,Appliances,272909.25,40238.21
+2025-06-01,South,Cameras,203726.89,31756.73
+2025-06-01,Midwest,Computers,388330.05,55845.82
+2025-06-01,Midwest,Mobile Devices,328413.18,41088.76
+2025-06-01,Midwest,Home Entertainment,291751.89,44267.78
+2025-06-01,Midwest,Appliances,213152.31,32274.84
+2025-06-01,Midwest,Cameras,152218.08,21751.15
+2025-06-01,Northeast,Computers,487801.95,85534.4
+2025-06-01,Northeast,Mobile Devices,337707.6,59274.9
+2025-06-01,Northeast,Home Entertainment,289422.86,34497.26
+2025-06-01,Northeast,Appliances,238422.93,30818.94
+2025-06-01,Northeast,Cameras,170351.17,30651.98
+2025-07-01,West,Computers,715188.28,100327.38
+2025-07-01,West,Mobile Devices,536372.53,67511.0
+2025-07-01,West,Home Entertainment,434050.85,67860.06
+2025-07-01,West,Appliances,392246.25,58944.71
+2025-07-01,West,Cameras,237727.46,41252.19
+2025-07-01,South,Computers,581765.24,69481.87
+2025-07-01,South,Mobile Devices,449566.39,70490.2
+2025-07-01,South,Home Entertainment,374114.36,53567.84
+2025-07-01,South,Appliances,310334.43,38178.68
+2025-07-01,South,Cameras,215519.35,25711.48
+2025-07-01,Midwest,Computers,478018.86,56163.45
+2025-07-01,Midwest,Mobile Devices,425340.62,75561.63
+2025-07-01,Midwest,Home Entertainment,298318.79,41678.35
+2025-07-01,Midwest,Appliances,274923.03,49330.68
+2025-07-01,Midwest,Cameras,191853.21,31336.63
+2025-07-01,Northeast,Computers,529219.83,60408.85
+2025-07-01,Northeast,Mobile Devices,442023.05,52031.31
+2025-07-01,Northeast,Home Entertainment,312594.51,50365.21
+2025-07-01,Northeast,Appliances,283106.48,32703.62
+2025-07-01,Northeast,Cameras,206950.58,35686.78
+2025-08-01,West,Computers,525547.51,61783.48
+2025-08-01,West,Mobile Devices,535027.97,80955.71
+2025-08-01,West,Home Entertainment,396854.91,68226.66
+2025-08-01,West,Appliances,284565.81,34086.52
+2025-08-01,West,Cameras,230699.03,26757.82
+2025-08-01,South,Computers,441281.43,69540.09
+2025-08-01,South,Mobile Devices,454952.59,60536.08
+2025-08-01,South,Home Entertainment,354202.63,45167.16
+2025-08-01,South,Appliances,273523.64,37902.47
+2025-08-01,South,Cameras,174521.24,28035.9
+2025-08-01,Midwest,Computers,445902.44,63618.55
+2025-08-01,Midwest,Mobile Devices,306141.23,38886.25
+2025-08-01,Midwest,Home Entertainment,249079.61,35478.17
+2025-08-01,Midwest,Appliances,241095.43,30751.41
+2025-08-01,Midwest,Cameras,171720.79,23550.24
+2025-08-01,Northeast,Computers,409755.22,61315.63
+2025-08-01,Northeast,Mobile Devices,340829.73,54132.55
+2025-08-01,Northeast,Home Entertainment,323722.35,36961.42
+2025-08-01,Northeast,Appliances,245702.95,40449.53
+2025-08-01,Northeast,Cameras,179176.43,23075.18
+2025-09-01,West,Computers,650010.74,110384.26
+2025-09-01,West,Mobile Devices,580409.76,98257.55
+2025-09-01,West,Home Entertainment,442672.43,70943.72
+2025-09-01,West,Appliances,387093.62,54375.46
+2025-09-01,West,Cameras,257143.66,45723.33
+2025-09-01,South,Computers,552020.6,93695.59
+2025-09-01,South,Mobile Devices,530263.06,76803.11
+2025-09-01,South,Home Entertainment,399869.83,65824.0
+2025-09-01,South,Appliances,331485.29,59049.2
+2025-09-01,South,Cameras,222776.12,24619.44
+2025-09-01,Midwest,Computers,469101.1,70949.48
+2025-09-01,Midwest,Mobile Devices,402655.85,63238.25
+2025-09-01,Midwest,Home Entertainment,319644.71,56710.09
+2025-09-01,Midwest,Appliances,259828.46,37685.79
+2025-09-01,Midwest,Cameras,173906.95,25078.31
+2025-09-01,Northeast,Computers,528586.6,79387.63
+2025-09-01,Northeast,Mobile Devices,472233.98,57604.83
+2025-09-01,Northeast,Home Entertainment,299635.96,36014.04
+2025-09-01,Northeast,Appliances,258318.3,40985.53
+2025-09-01,Northeast,Cameras,192210.85,26650.63
+2025-10-01,West,Computers,626698.59,74742.92
+2025-10-01,West,Mobile Devices,466627.85,80146.86
+2025-10-01,West,Home Entertainment,367828.43,51753.76
+2025-10-01,West,Appliances,314567.23,55648.15
+2025-10-01,West,Cameras,221119.26,33000.62
+2025-10-01,South,Computers,435410.14,66541.94
+2025-10-01,South,Mobile Devices,364456.72,48915.71
+2025-10-01,South,Home Entertainment,313864.44,42826.26
+2025-10-01,South,Appliances,289989.48,37731.3
+2025-10-01,South,Cameras,174103.78,28365.96
+2025-10-01,Midwest,Computers,422251.84,65530.94
+2025-10-01,Midwest,Mobile Devices,345013.71,52484.27
+2025-10-01,Midwest,Home Entertainment,245290.94,27409.67
+2025-10-01,Midwest,Appliances,237369.22,30251.07
+2025-10-01,Midwest,Cameras,179227.52,29063.57
+2025-10-01,Northeast,Computers,417050.59,63826.0
+2025-10-01,Northeast,Mobile Devices,391328.27,45546.65
+2025-10-01,Northeast,Home Entertainment,260553.92,45888.49
+2025-10-01,Northeast,Appliances,251349.49,41690.29
+2025-10-01,Northeast,Cameras,167913.66,23460.7
+2025-11-01,West,Computers,898954.74,135496.77
+2025-11-01,West,Mobile Devices,689283.32,89954.7
+2025-11-01,West,Home Entertainment,505918.65,84855.7
+2025-11-01,West,Appliances,438111.31,66362.95
+2025-11-01,West,Cameras,322369.76,48577.14
+2025-11-01,South,Computers,673709.07,100168.37
+2025-11-01,South,Mobile Devices,541830.61,74887.85
+2025-11-01,South,Home Entertainment,500816.87,71969.05
+2025-11-01,South,Appliances,414187.59,72772.14
+2025-11-01,South,Cameras,309971.92,39081.18
+2025-11-01,Midwest,Computers,548827.88,82420.23
+2025-11-01,Midwest,Mobile Devices,443722.87,49225.49
+2025-11-01,Midwest,Home Entertainment,398064.51,64037.39
+2025-11-01,Midwest,Appliances,315257.11,38436.61
+2025-11-01,Midwest,Cameras,251361.25,35733.59
+2025-11-01,Northeast,Computers,700975.91,85598.51
+2025-11-01,Northeast,Mobile Devices,599238.42,76479.75
+2025-11-01,Northeast,Home Entertainment,457328.95,68603.1
+2025-11-01,Northeast,Appliances,349867.13,45733.77
+2025-11-01,Northeast,Cameras,243167.01,30203.7
+2025-12-01,West,Computers,808876.47,117881.92
+2025-12-01,West,Mobile Devices,669824.73,82983.57
+2025-12-01,West,Home Entertainment,579944.26,67166.83
+2025-12-01,West,Appliances,446697.13,52759.76
+2025-12-01,West,Cameras,326429.29,46148.73
+2025-12-01,South,Computers,775020.06,138541.31
+2025-12-01,South,Mobile Devices,671760.73,107346.17
+2025-12-01,South,Home Entertainment,486006.77,55132.09
+2025-12-01,South,Appliances,349054.74,44603.46
+2025-12-01,South,Cameras,276884.25,33834.63
+2025-12-01,Midwest,Computers,575985.35,71482.25
+2025-12-01,Midwest,Mobile Devices,480412.61,58191.44
+2025-12-01,Midwest,Home Entertainment,359637.18,54998.5
+2025-12-01,Midwest,Appliances,335077.53,42351.77
+2025-12-01,Midwest,Cameras,206081.32,33698.78
+2025-12-01,Northeast,Computers,562998.75,84568.5
+2025-12-01,Northeast,Mobile Devices,551960.89,61151.2
+2025-12-01,Northeast,Home Entertainment,406717.53,64342.86
+2025-12-01,Northeast,Appliances,320906.85,39308.99
+2025-12-01,Northeast,Cameras,260809.22,32824.77

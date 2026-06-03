@@ -1,0 +1,201 @@
+product_sku,product_name,category_raw,sub_category_raw,brand_raw,category_clean_reference,sub_category_clean_reference,brand_clean_reference,standard_price,standard_cost,launch_year
+SKU-0001,GameSphere Laptops Model 01, Computers ,Laptops,GameSphere,Computers,Laptops,GameSphere,822.56,666.05,2023
+SKU-0002,Northstar Laptops Model 02,computers,Laptops,Northstar,Computers,Laptops,Northstar,793.76,491.36,2023
+SKU-0003,NovaTech Laptops Model 03,Computers,Laptops,NovaTech,Computers,Laptops,NovaTech,1688.77,1181.83,2024
+SKU-0004,Zenith Laptops Model 04,Computers,Laptops, Zenith ,Computers,Laptops,Zenith,1060.56,644.28,2025
+SKU-0005,Orion Laptops Model 05,Computers,Laptops,ORION,Computers,Laptops,Orion,1841.33,1456.29,2023
+SKU-0006,NovaTech Laptops Model 06,Computers,Laptops,NovaTech,Computers,Laptops,NovaTech,739.78,450.56,2022
+SKU-0007,Northstar Laptops Model 07, Computers ,Laptops,Northstar,Computers,Laptops,Northstar,1174.03,924.34,2021
+SKU-0008,GameSphere Laptops Model 08,Computers,Laptops,GameSphere,Computers,Laptops,GameSphere,1662.86,1156.56,2024
+SKU-0009,Apex Laptops Model 09,Computers,Laptops,Apex,Computers,Laptops,Apex,905.19,539.89,2021
+SKU-0010,GameSphere Laptops Model 10,Computers,Laptops, GameSphere ,Computers,Laptops,GameSphere,1985.82,1253.36,2023
+SKU-0011,Zenith Desktops Model 01,Computers,Desktops,Zenith,Computers,Desktops,Zenith,1645.12,1204.59,2023
+SKU-0012,HomeEase Desktops Model 02,COMPUTERS,Desktops ,HomeEase,Computers,Desktops,HomeEase,1676.94,1293.04,2021
+SKU-0013,PixelPro Desktops Model 03,Computers,Desktops,PixelPro,Computers,Desktops,PixelPro,824.39,648.02,2022
+SKU-0014,NovaTech Desktops Model 04,Computers,Desktops,NovaTech,Computers,Desktops,NovaTech,1098.39,844.38,2024
+SKU-0015,SnapVision Desktops Model 05,Computers,Desktops,SnapVision,Computers,Desktops,SnapVision,650.34,463.73,2022
+SKU-0016,Voltix Desktops Model 06,Computers,Desktops,Voltix,Computers,Desktops,Voltix,992.89,736.2,2022
+SKU-0017,NovaTech Desktops Model 07,Computers,Desktops,NovaTech,Computers,Desktops,NovaTech,560.08,341.16,2022
+SKU-0018,ClearSound Desktops Model 08,computers,Desktops,ClearSound,Computers,Desktops,ClearSound,1784.26,1417.29,2021
+SKU-0019,Zenith Desktops Model 09,Computers,Desktops,Zenith,Computers,Desktops,Zenith,997.95,770.38,2022
+SKU-0020,ClearSound Desktops Model 10,Computers,Desktops,ClearSound,Computers,Desktops,ClearSound,1066.59,811.12,2024
+SKU-0021,Orion Monitors Model 01,Computers,Monitors,Orion,Computers,Monitors,Orion,516.98,396.36,2022
+SKU-0022,Orion Monitors Model 02,Computers,Monitors,Orion,Computers,Monitors,Orion,285.34,221.81,2021
+SKU-0023,Voltix Monitors Model 03,Computers,Monitors,VOLTIX,Computers,Monitors,Voltix,559.21,348.75,2022
+SKU-0024,PixelPro Monitors Model 04,Computers,Monitors,PixelPro,Computers,Monitors,PixelPro,586.57,445.22,2023
+SKU-0025,PixelPro Monitors Model 05,Computers,Monitors,PixelPro,Computers,Monitors,PixelPro,253.24,180.51,2022
+SKU-0026,GameSphere Monitors Model 06,Computers,Monitors,GameSphere,Computers,Monitors,GameSphere,582.54,369.43,2025
+SKU-0027,Voltix Monitors Model 07,Computers,Monitors,Voltix,Computers,Monitors,Voltix,575.89,429.02,2023
+SKU-0028,GameSphere Monitors Model 08,Computers,Monitors,GameSphere,Computers,Monitors,GameSphere,224.84,162.99,2021
+SKU-0029,Northstar Monitors Model 09,COMPUTERS,Monitors,Northstar,Computers,Monitors,Northstar,576.07,373.97,2024
+SKU-0030,HomeEase Monitors Model 10,Computers,monitors,HomeEase,Computers,Monitors,HomeEase,253.77,166.11,2021
+SKU-0031,HomeEase Computer Accessories Model 01,Computers,Computer Accessories,HomeEase,Computers,Computer Accessories,HomeEase,42.69,32.83,2023
+SKU-0032,Apex Computer Accessories Model 02,Computers,Computer Accessories,Apex,Computers,Computer Accessories,Apex,219.78,170.76,2022
+SKU-0033,ClearSound Computer Accessories Model 03,Computers,Computer Accessories,ClearSound,Computers,Computer Accessories,ClearSound,86.4,68.51,2024
+SKU-0034,HomeEase Computer Accessories Model 04,Computers,Computer Accessories,HOMEEASE,Computers,Computer Accessories,HomeEase,204.19,148.8,2022
+SKU-0035,ClearSound Computer Accessories Model 05,Computers,Computer Accessories,ClearSound,Computers,Computer Accessories,ClearSound,70.8,57.93,2023
+SKU-0036,Apex Computer Accessories Model 06,Computers,Computer Accessories,Apex,Computers,Computer Accessories,Apex,133.19,87.12,2024
+SKU-0037,Apex Computer Accessories Model 07,COMPUTERS,Computer Accessories,Apex,Computers,Computer Accessories,Apex,79.02,64.42,2025
+SKU-0038,PixelPro Computer Accessories Model 08,Computers,Computer Accessories,PixelPro,Computers,Computer Accessories,PixelPro,44.72,29.2,2024
+SKU-0039,Northstar Computer Accessories Model 09,computers,Computer Accessories,Northstar,Computers,Computer Accessories,Northstar,110.73,73.75,2024
+SKU-0040,Orion Computer Accessories Model 10,COMPUTERS,Computer Accessories,Orion,Computers,Computer Accessories,Orion,110.94,85.61,2021
+SKU-0041,GameSphere Smartphones Model 01,Mobile Devices,Smartphones,GAMESPHERE,Mobile Devices,Smartphones,GameSphere,1065.51,834.67,2024
+SKU-0042,GameSphere Smartphones Model 02,Mobile Devices,Smartphones,GameSphere,Mobile Devices,Smartphones,GameSphere,718.75,488.25,2024
+SKU-0043,Voltix Smartphones Model 03,Mobile Devices,Smartphones,Voltix,Mobile Devices,Smartphones,Voltix,786.59,639.04,2025
+SKU-0044,Orion Smartphones Model 04,Mobile Devices,Smartphones,Orion,Mobile Devices,Smartphones,Orion,591.52,391.32,2021
+SKU-0045,Zenith Smartphones Model 05,Mobile Devices,Smartphones,Zenith,Mobile Devices,Smartphones,Zenith,1123.12,725.04,2025
+SKU-0046,Northstar Smartphones Model 06,Mobile Devices,Smartphones,Northstar,Mobile Devices,Smartphones,Northstar,985.01,665.18,2021
+SKU-0047,Voltix Smartphones Model 07,Mobile Devices,Smartphones,Voltix,Mobile Devices,Smartphones,Voltix,1045.42,648.53,2025
+SKU-0048,GameSphere Smartphones Model 08,Mobile Devices,Smartphones,GameSphere,Mobile Devices,Smartphones,GameSphere,1245.59,980.8,2023
+SKU-0049,Zenith Smartphones Model 09,Mobile Devices,Smartphones,Zenith,Mobile Devices,Smartphones,Zenith,1068.85,775.13,2025
+SKU-0050,Zenith Smartphones Model 10,Mobile Devices,Smartphones,Zenith,Mobile Devices,Smartphones,Zenith,1577.1,1010.1,2025
+SKU-0051,Zenith Tablets Model 01,Mobile Devices,Tablets,Zenith,Mobile Devices,Tablets,Zenith,892.45,563.5,2024
+SKU-0052,NovaTech Tablets Model 02,Mobile Devices,Tablets,NovaTech,Mobile Devices,Tablets,NovaTech,966.29,626.53,2024
+SKU-0053,NovaTech Tablets Model 03,Mobile Devices,Tablets,NovaTech,Mobile Devices,Tablets,NovaTech,555.2,358.36,2025
+SKU-0054,Zenith Tablets Model 04,Mobile Devices,Tablets,Zenith,Mobile Devices,Tablets,Zenith,1129.08,821.61,2021
+SKU-0055,Apex Tablets Model 05,Mobile Devices,Tablets,Apex,Mobile Devices,Tablets,Apex,293.41,216.96,2021
+SKU-0056,HomeEase Tablets Model 06,Mobile Devices,Tablets,HomeEase,Mobile Devices,Tablets,HomeEase,745.23,571.59,2024
+SKU-0057,BrightView Tablets Model 07,Mobile Devices,Tablets,BrightView,Mobile Devices,Tablets,BrightView,217.72,147.18,2024
+SKU-0058,Voltix Tablets Model 08,Mobile Devices,Tablets,Voltix,Mobile Devices,Tablets,Voltix,452.06,309.38,2021
+SKU-0059,Northstar Tablets Model 09,mobile devices,Tablets,Northstar,Mobile Devices,Tablets,Northstar,211.76,135.51,2021
+SKU-0060,Apex Tablets Model 10,Mobile Devices,Tablets ,Apex,Mobile Devices,Tablets,Apex,445.5,349.41,2022
+SKU-0061,PixelPro Wearables Model 01,Mobile Devices,Wearables,PixelPro,Mobile Devices,Wearables,PixelPro,368.09,243.93,2025
+SKU-0062,GameSphere Wearables Model 02,MOBILE DEVICES,Wearables,GameSphere,Mobile Devices,Wearables,GameSphere,349.41,217.02,2025
+SKU-0063,BrightView Wearables Model 03,Mobile Devices,Wearables,BrightView,Mobile Devices,Wearables,BrightView,573.24,389.66,2024
+SKU-0064,NovaTech Wearables Model 04,Mobile Devices,Wearables,NovaTech,Mobile Devices,Wearables,NovaTech,287.33,179.74,2022
+SKU-0065,ClearSound Wearables Model 05,Mobile Devices,Wearables,ClearSound,Mobile Devices,Wearables,ClearSound,317.76,199.15,2025
+SKU-0066,Orion Wearables Model 06,Mobile Devices,Wearables,Orion,Mobile Devices,Wearables,Orion,141.78,93.39,2025
+SKU-0067,PixelPro Wearables Model 07,Mobile Devices,Wearables,PixelPro,Mobile Devices,Wearables,PixelPro,356.82,268.73,2025
+SKU-0068,ClearSound Wearables Model 08,Mobile Devices,Wearables,ClearSound,Mobile Devices,Wearables,ClearSound,96.42,68.08,2023
+SKU-0069,Zenith Wearables Model 09,Mobile Devices,Wearables,Zenith,Mobile Devices,Wearables,Zenith,497.9,357.31,2025
+SKU-0070,Voltix Wearables Model 10,Mobile Devices,Wearables,Voltix,Mobile Devices,Wearables,Voltix,576.76,348.39,2023
+SKU-0071,BrightView Mobile Accessories Model 01,Mobile Devices,Mobile Accessories,BrightView,Mobile Devices,Mobile Accessories,BrightView,159.71,128.43,2021
+SKU-0072,Voltix Mobile Accessories Model 02,Mobile Devices,Mobile Accessories,VOLTIX,Mobile Devices,Mobile Accessories,Voltix,112.47,86.58,2025
+SKU-0073,GameSphere Mobile Accessories Model 03,Mobile Devices,Mobile Accessories,GameSphere,Mobile Devices,Mobile Accessories,GameSphere,123.77,76.53,2025
+SKU-0074,BrightView Mobile Accessories Model 04,Mobile Devices,Mobile Accessories,BrightView,Mobile Devices,Mobile Accessories,BrightView,91.29,73.05,2021
+SKU-0075,Apex Mobile Accessories Model 05,Mobile Devices,mobile accessories,Apex,Mobile Devices,Mobile Accessories,Apex,125.65,74.24,2023
+SKU-0076,BrightView Mobile Accessories Model 06,Mobile Devices,Mobile Accessories,BrightView,Mobile Devices,Mobile Accessories,BrightView,140.73,99.77,2025
+SKU-0077,Zenith Mobile Accessories Model 07,Mobile Devices,Mobile Accessories,Zenith,Mobile Devices,Mobile Accessories,Zenith,100.43,74.45,2021
+SKU-0078,NovaTech Mobile Accessories Model 08,Mobile Devices,Mobile Accessories,NovaTech,Mobile Devices,Mobile Accessories,NovaTech,59.17,43.21,2024
+SKU-0079,HomeEase Mobile Accessories Model 09,Mobile Devices,Mobile Accessories,HomeEase,Mobile Devices,Mobile Accessories,HomeEase,35.37,28.34,2023
+SKU-0080,Northstar Mobile Accessories Model 10,Mobile Devices,Mobile Accessories,Northstar,Mobile Devices,Mobile Accessories,Northstar,146.79,99.11,2022
+SKU-0081,HomeEase TVs Model 01,Home Entertainment,TVs,HomeEase,Home Entertainment,TVs,HomeEase,2056.34,1306.19,2025
+SKU-0082,NovaTech TVs Model 02,Home Entertainment,TVs,NovaTech,Home Entertainment,TVs,NovaTech,628.53,491.64,2022
+SKU-0083,Northstar TVs Model 03,Home Entertainment,TVs,Northstar,Home Entertainment,TVs,Northstar,1347.67,982.11,2023
+SKU-0084,PixelPro TVs Model 04,Home Entertainment,TVs,PixelPro,Home Entertainment,TVs,PixelPro,2157.7,1300.85,2025
+SKU-0085,Apex TVs Model 05,Home Entertainment,TVs,Apex,Home Entertainment,TVs,Apex,1471.82,1044.6,2024
+SKU-0086,BrightView TVs Model 06,Home Entertainment,TVs, BrightView ,Home Entertainment,TVs,BrightView,1016.33,661.52,2022
+SKU-0087,BrightView TVs Model 07,Home Entertainment,TVs,BRIGHTVIEW,Home Entertainment,TVs,BrightView,2371.66,1596.3,2021
+SKU-0088,BrightView TVs Model 08,Home Entertainment,TVs,BrightView,Home Entertainment,TVs,BrightView,1359.53,990.89,2023
+SKU-0089,ClearSound TVs Model 09,Home Entertainment,TVs,ClearSound,Home Entertainment,TVs,ClearSound,956.91,711.57,2025
+SKU-0090,Apex TVs Model 10,Home Entertainment,TVs,Apex,Home Entertainment,TVs,Apex,1170.57,901.07,2023
+SKU-0091,BrightView Speakers Model 01,Home Entertainment,Speakers,BrightView,Home Entertainment,Speakers,BrightView,885.9,678.04,2025
+SKU-0092,BrightView Speakers Model 02,Home Entertainment,Speakers,BrightView,Home Entertainment,Speakers,BrightView,308.23,190.93,2022
+SKU-0093,HomeEase Speakers Model 03,Home Entertainment,Speakers,HomeEase,Home Entertainment,Speakers,HomeEase,65.11,44.91,2023
+SKU-0094,GameSphere Speakers Model 04,Home Entertainment,Speakers,GameSphere,Home Entertainment,Speakers,GameSphere,739.81,515.5,2025
+SKU-0095,BrightView Speakers Model 05,Home Entertainment,Speakers,BrightView,Home Entertainment,Speakers,BrightView,858.58,504.72,2022
+SKU-0096,HomeEase Speakers Model 06,home entertainment,Speakers,HomeEase,Home Entertainment,Speakers,HomeEase,892.17,611.47,2021
+SKU-0097,NovaTech Speakers Model 07,Home Entertainment,Speakers,NovaTech,Home Entertainment,Speakers,NovaTech,732.68,599.48,2022
+SKU-0098,BrightView Speakers Model 08,Home Entertainment,Speakers,BrightView,Home Entertainment,Speakers,BrightView,396.23,292.97,2023
+SKU-0099,Northstar Speakers Model 09,Home Entertainment,Speakers,Northstar,Home Entertainment,Speakers,Northstar,773.08,617.12,2023
+SKU-0100,Zenith Speakers Model 10,Home Entertainment,Speakers,Zenith,Home Entertainment,Speakers,Zenith,664.35,461.49,2022
+SKU-0101,Voltix Gaming Consoles Model 01,Home Entertainment,Gaming Consoles,Voltix,Home Entertainment,Gaming Consoles,Voltix,280.79,171.15,2024
+SKU-0102,PixelPro Gaming Consoles Model 02,Home Entertainment,Gaming Consoles,PixelPro,Home Entertainment,Gaming Consoles,PixelPro,631.55,377.06,2021
+SKU-0103,PixelPro Gaming Consoles Model 03,HOME ENTERTAINMENT,Gaming Consoles,PixelPro,Home Entertainment,Gaming Consoles,PixelPro,280.39,197.03,2022
+SKU-0104,Zenith Gaming Consoles Model 04,home entertainment,Gaming Consoles,Zenith,Home Entertainment,Gaming Consoles,Zenith,288.8,217.46,2022
+SKU-0105,PixelPro Gaming Consoles Model 05,Home Entertainment,Gaming Consoles,PixelPro,Home Entertainment,Gaming Consoles,PixelPro,509.49,300.89,2021
+SKU-0106,NovaTech Gaming Consoles Model 06, Home Entertainment ,Gaming Consoles,NovaTech,Home Entertainment,Gaming Consoles,NovaTech,361.72,276.95,2023
+SKU-0107,PixelPro Gaming Consoles Model 07,home entertainment,Gaming Consoles,PixelPro,Home Entertainment,Gaming Consoles,PixelPro,599.15,452.08,2021
+SKU-0108,NovaTech Gaming Consoles Model 08,Home Entertainment,Gaming Consoles,NovaTech,Home Entertainment,Gaming Consoles,NovaTech,565.38,370.67,2024
+SKU-0109,BrightView Gaming Consoles Model 09,Home Entertainment,Gaming Consoles,BrightView,Home Entertainment,Gaming Consoles,BrightView,391.31,307.41,2022
+SKU-0110,Northstar Gaming Consoles Model 10,Home Entertainment,Gaming Consoles, Northstar ,Home Entertainment,Gaming Consoles,Northstar,497.55,319.49,2021
+SKU-0111,Apex Projectors Model 01,HOME ENTERTAINMENT,Projectors,Apex,Home Entertainment,Projectors,Apex,795.08,629.6,2024
+SKU-0112,Apex Projectors Model 02,Home Entertainment,Projectors,Apex,Home Entertainment,Projectors,Apex,861.15,596.95,2023
+SKU-0113,SnapVision Projectors Model 03,home entertainment,Projectors,SnapVision,Home Entertainment,Projectors,SnapVision,1312.29,938.48,2022
+SKU-0114,ClearSound Projectors Model 04,Home Entertainment,Projectors,ClearSound,Home Entertainment,Projectors,ClearSound,431.99,285.45,2023
+SKU-0115,Zenith Projectors Model 05,Home Entertainment,Projectors,Zenith,Home Entertainment,Projectors,Zenith,1125.05,701.7,2023
+SKU-0116,SnapVision Projectors Model 06,Home Entertainment,Projectors,SnapVision,Home Entertainment,Projectors,SnapVision,1087.53,861.64,2024
+SKU-0117,Voltix Projectors Model 07,Home Entertainment,Projectors,Voltix,Home Entertainment,Projectors,Voltix,550.8,376.48,2022
+SKU-0118,SnapVision Projectors Model 08,Home Entertainment,projectors,SnapVision,Home Entertainment,Projectors,SnapVision,250.48,204.02,2024
+SKU-0119,Northstar Projectors Model 09,Home Entertainment,Projectors,Northstar,Home Entertainment,Projectors,Northstar,840.38,657.0,2025
+SKU-0120,Voltix Projectors Model 10,Home Entertainment,Projectors,Voltix,Home Entertainment,Projectors,Voltix,991.51,812.39,2022
+SKU-0121,SnapVision Refrigerators Model 01,Appliances,Refrigerators ,SnapVision,Appliances,Refrigerators,SnapVision,1758.66,1391.51,2024
+SKU-0122,Orion Refrigerators Model 02,Appliances,refrigerators,Orion,Appliances,Refrigerators,Orion,2338.95,1903.47,2024
+SKU-0123,PixelPro Refrigerators Model 03,Appliances,Refrigerators,PixelPro,Appliances,Refrigerators,PixelPro,1208.92,967.53,2022
+SKU-0124,Orion Refrigerators Model 04,Appliances,Refrigerators,Orion,Appliances,Refrigerators,Orion,2577.9,1623.09,2024
+SKU-0125,HomeEase Refrigerators Model 05,Appliances,Refrigerators ,HomeEase,Appliances,Refrigerators,HomeEase,2071.12,1496.4,2023
+SKU-0126,Orion Refrigerators Model 06,Appliances,Refrigerators,Orion,Appliances,Refrigerators,Orion,547.61,414.44,2025
+SKU-0127,BrightView Refrigerators Model 07,Appliances,Refrigerators,BrightView,Appliances,Refrigerators,BrightView,1851.44,1173.07,2023
+SKU-0128,Voltix Refrigerators Model 08,Appliances,Refrigerators,Voltix,Appliances,Refrigerators,Voltix,2655.49,1741.82,2022
+SKU-0129,Northstar Refrigerators Model 09,appliances,Refrigerators,Northstar,Appliances,Refrigerators,Northstar,1997.65,1167.23,2021
+SKU-0130,GameSphere Refrigerators Model 10,Appliances,Refrigerators,GameSphere,Appliances,Refrigerators,GameSphere,1762.71,1330.0,2022
+SKU-0131,NovaTech Washers Model 01,Appliances,Washers,NovaTech,Appliances,Washers,NovaTech,378.63,279.73,2025
+SKU-0132,Orion Washers Model 02,Appliances,Washers,Orion,Appliances,Washers,Orion,868.99,678.21,2024
+SKU-0133,Zenith Washers Model 03,APPLIANCES,Washers,Zenith,Appliances,Washers,Zenith,872.31,705.89,2023
+SKU-0134,BrightView Washers Model 04,Appliances,Washers,BrightView,Appliances,Washers,BrightView,435.04,255.33,2022
+SKU-0135,ClearSound Washers Model 05,Appliances,Washers,ClearSound,Appliances,Washers,ClearSound,840.54,600.14,2025
+SKU-0136,Apex Washers Model 06,Appliances,Washers,APEX,Appliances,Washers,Apex,1534.8,1042.07,2025
+SKU-0137,HomeEase Washers Model 07,Appliances,Washers,HomeEase,Appliances,Washers,HomeEase,1162.22,943.1,2023
+SKU-0138,HomeEase Washers Model 08,Appliances,Washers,HomeEase,Appliances,Washers,HomeEase,1483.06,1200.52,2022
+SKU-0139,ClearSound Washers Model 09,Appliances,Washers,ClearSound,Appliances,Washers,ClearSound,1228.93,950.15,2022
+SKU-0140,Voltix Washers Model 10,Appliances,Washers,Voltix,Appliances,Washers,Voltix,542.37,437.28,2024
+SKU-0141,GameSphere Microwaves Model 01,APPLIANCES,Microwaves,GameSphere,Appliances,Microwaves,GameSphere,430.93,274.51,2023
+SKU-0142,BrightView Microwaves Model 02,Appliances,Microwaves,BrightView,Appliances,Microwaves,BrightView,372.99,277.44,2022
+SKU-0143,Zenith Microwaves Model 03,Appliances,Microwaves,Zenith,Appliances,Microwaves,Zenith,338.91,238.91,2025
+SKU-0144,Zenith Microwaves Model 04,Appliances,Microwaves,Zenith,Appliances,Microwaves,Zenith,357.64,288.55,2024
+SKU-0145,Orion Microwaves Model 05,Appliances,Microwaves,Orion,Appliances,Microwaves,Orion,301.33,242.73,2022
+SKU-0146,Apex Microwaves Model 06,Appliances,Microwaves,Apex,Appliances,Microwaves,Apex,299.98,217.66,2023
+SKU-0147,ClearSound Microwaves Model 07,Appliances,Microwaves,ClearSound,Appliances,Microwaves,ClearSound,348.61,209.32,2022
+SKU-0148,BrightView Microwaves Model 08,Appliances,Microwaves,BrightView,Appliances,Microwaves,BrightView,495.73,330.02,2022
+SKU-0149,Northstar Microwaves Model 09,Appliances,Microwaves,Northstar,Appliances,Microwaves,Northstar,376.25,262.2,2021
+SKU-0150,Zenith Microwaves Model 10,Appliances,Microwaves,Zenith,Appliances,Microwaves,Zenith,400.76,306.7,2023
+SKU-0151,Zenith Air Purifiers Model 01,appliances,Air Purifiers,Zenith,Appliances,Air Purifiers,Zenith,538.91,379.55,2023
+SKU-0152,Voltix Air Purifiers Model 02,Appliances,Air Purifiers,Voltix,Appliances,Air Purifiers,Voltix,599.64,417.17,2025
+SKU-0153,Apex Air Purifiers Model 03,Appliances,Air Purifiers,Apex,Appliances,Air Purifiers,Apex,218.53,128.8,2025
+SKU-0154,Zenith Air Purifiers Model 04,Appliances,Air Purifiers,Zenith,Appliances,Air Purifiers,Zenith,596.52,395.04,2024
+SKU-0155,SnapVision Air Purifiers Model 05,Appliances,Air Purifiers,SnapVision,Appliances,Air Purifiers,SnapVision,161.69,114.03,2023
+SKU-0156,Apex Air Purifiers Model 06,Appliances,Air Purifiers,Apex,Appliances,Air Purifiers,Apex,454.96,286.31,2023
+SKU-0157,Voltix Air Purifiers Model 07,Appliances,Air Purifiers,Voltix,Appliances,Air Purifiers,Voltix,244.8,168.23,2022
+SKU-0158,Northstar Air Purifiers Model 08,Appliances,Air Purifiers,Northstar,Appliances,Air Purifiers,Northstar,138.82,112.03,2022
+SKU-0159,GameSphere Air Purifiers Model 09,Appliances,Air Purifiers,GameSphere,Appliances,Air Purifiers,GameSphere,258.32,194.85,2025
+SKU-0160,SnapVision Air Purifiers Model 10,Appliances,Air Purifiers,SnapVision,Appliances,Air Purifiers,SnapVision,624.43,506.22,2024
+SKU-0161,GameSphere DSLR Cameras Model 01,Cameras,DSLR Cameras,GameSphere,Cameras,DSLR Cameras,GameSphere,1831.08,1180.27,2022
+SKU-0162,ClearSound DSLR Cameras Model 02,Cameras,DSLR Cameras,ClearSound,Cameras,DSLR Cameras,ClearSound,2188.42,1365.33,2025
+SKU-0163,Orion DSLR Cameras Model 03,Cameras,DSLR Cameras,Orion,Cameras,DSLR Cameras,Orion,1227.83,994.6,2023
+SKU-0164,PixelPro DSLR Cameras Model 04,Cameras,DSLR Cameras ,PixelPro,Cameras,DSLR Cameras,PixelPro,2090.08,1362.75,2025
+SKU-0165,SnapVision DSLR Cameras Model 05,Cameras,DSLR Cameras,SnapVision,Cameras,DSLR Cameras,SnapVision,1691.43,1188.24,2024
+SKU-0166,Northstar DSLR Cameras Model 06,Cameras,DSLR Cameras,Northstar,Cameras,DSLR Cameras,Northstar,1771.52,1203.5,2022
+SKU-0167,Apex DSLR Cameras Model 07,Cameras,DSLR Cameras,Apex,Cameras,DSLR Cameras,Apex,622.84,439.98,2022
+SKU-0168,Apex DSLR Cameras Model 08,Cameras,DSLR Cameras ,Apex,Cameras,DSLR Cameras,Apex,1761.56,1131.55,2023
+SKU-0169,Apex DSLR Cameras Model 09,Cameras,DSLR Cameras,Apex,Cameras,DSLR Cameras,Apex,1599.14,1089.55,2022
+SKU-0170,HomeEase DSLR Cameras Model 10,cameras,DSLR Cameras,HomeEase,Cameras,DSLR Cameras,HomeEase,489.76,311.43,2022
+SKU-0171,Apex Mirrorless Cameras Model 01,Cameras,Mirrorless Cameras,Apex,Cameras,Mirrorless Cameras,Apex,2753.46,2084.44,2021
+SKU-0172,NovaTech Mirrorless Cameras Model 02,Cameras,Mirrorless Cameras,NovaTech,Cameras,Mirrorless Cameras,NovaTech,1166.25,709.91,2022
+SKU-0173,Apex Mirrorless Cameras Model 03,Cameras,Mirrorless Cameras,Apex,Cameras,Mirrorless Cameras,Apex,1868.39,1412.44,2021
+SKU-0174,BrightView Mirrorless Cameras Model 04,Cameras,Mirrorless Cameras,BrightView,Cameras,Mirrorless Cameras,BrightView,1768.4,1337.05,2021
+SKU-0175,SnapVision Mirrorless Cameras Model 05,Cameras,Mirrorless Cameras,SnapVision,Cameras,Mirrorless Cameras,SnapVision,937.41,662.0,2025
+SKU-0176,Orion Mirrorless Cameras Model 06,CAMERAS,Mirrorless Cameras, Orion ,Cameras,Mirrorless Cameras,Orion,1975.45,1255.29,2024
+SKU-0177,NovaTech Mirrorless Cameras Model 07,Cameras,Mirrorless Cameras,NovaTech,Cameras,Mirrorless Cameras,NovaTech,1988.14,1556.25,2024
+SKU-0178,GameSphere Mirrorless Cameras Model 08,cameras,Mirrorless Cameras,GameSphere,Cameras,Mirrorless Cameras,GameSphere,1380.87,990.03,2025
+SKU-0179,Zenith Mirrorless Cameras Model 09, Cameras ,Mirrorless Cameras,Zenith,Cameras,Mirrorless Cameras,Zenith,2730.74,1802.98,2024
+SKU-0180,Voltix Mirrorless Cameras Model 10, Cameras ,Mirrorless Cameras,Voltix,Cameras,Mirrorless Cameras,Voltix,3124.7,1911.46,2021
+SKU-0181,ClearSound Action Cameras Model 01,Cameras,Action Cameras,ClearSound,Cameras,Action Cameras,ClearSound,563.59,370.26,2025
+SKU-0182,GameSphere Action Cameras Model 02,Cameras,Action Cameras,GameSphere,Cameras,Action Cameras,GameSphere,513.66,338.84,2025
+SKU-0183,NovaTech Action Cameras Model 03,Cameras,Action Cameras,NovaTech,Cameras,Action Cameras,NovaTech,306.55,179.2,2024
+SKU-0184,NovaTech Action Cameras Model 04,Cameras,Action Cameras,NovaTech,Cameras,Action Cameras,NovaTech,290.58,172.86,2023
+SKU-0185,Voltix Action Cameras Model 05,Cameras,action cameras,Voltix,Cameras,Action Cameras,Voltix,278.06,181.89,2025
+SKU-0186,Zenith Action Cameras Model 06,Cameras,Action Cameras,Zenith,Cameras,Action Cameras,Zenith,514.42,314.6,2021
+SKU-0187,SnapVision Action Cameras Model 07,Cameras,Action Cameras,SnapVision,Cameras,Action Cameras,SnapVision,585.03,367.8,2022
+SKU-0188,Northstar Action Cameras Model 08,Cameras,Action Cameras,Northstar,Cameras,Action Cameras,Northstar,138.49,88.49,2025
+SKU-0189,Voltix Action Cameras Model 09,Cameras,Action Cameras,Voltix,Cameras,Action Cameras,Voltix,360.32,242.97,2023
+SKU-0190,ClearSound Action Cameras Model 10,Cameras,action cameras,ClearSound,Cameras,Action Cameras,ClearSound,413.79,296.16,2022
+SKU-0191,Zenith Camera Accessories Model 01,Cameras,Camera Accessories, Zenith ,Cameras,Camera Accessories,Zenith,182.83,106.33,2025
+SKU-0192,Orion Camera Accessories Model 02, Cameras ,Camera Accessories,Orion,Cameras,Camera Accessories,Orion,239.38,140.9,2023
+SKU-0193,PixelPro Camera Accessories Model 03,Cameras,Camera Accessories,PixelPro,Cameras,Camera Accessories,PixelPro,281.16,184.43,2025
+SKU-0194,SnapVision Camera Accessories Model 04,Cameras,Camera Accessories,SnapVision,Cameras,Camera Accessories,SnapVision,110.13,82.11,2023
+SKU-0195,Northstar Camera Accessories Model 05,Cameras,Camera Accessories,Northstar,Cameras,Camera Accessories,Northstar,168.04,127.41,2025
+SKU-0196,Orion Camera Accessories Model 06,Cameras,Camera Accessories,Orion,Cameras,Camera Accessories,Orion,102.86,61.8,2022
+SKU-0197,PixelPro Camera Accessories Model 07,Cameras,Camera Accessories,PixelPro,Cameras,Camera Accessories,PixelPro,249.31,187.95,2024
+SKU-0198,Voltix Camera Accessories Model 08,CAMERAS,Camera Accessories, Voltix ,Cameras,Camera Accessories,Voltix,140.72,100.52,2021
+SKU-0199,NovaTech Camera Accessories Model 09,Cameras,Camera Accessories,NovaTech,Cameras,Camera Accessories,NovaTech,194.4,128.26,2022
+SKU-0200,BrightView Camera Accessories Model 10,Cameras,Camera Accessories,BrightView,Cameras,Camera Accessories,BrightView,67.26,44.25,2024
