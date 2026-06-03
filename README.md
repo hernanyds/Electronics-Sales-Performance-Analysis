@@ -1,235 +1,41 @@
-# 📊 Electronics Sales Performance Analysis
+# Electronics Sales Performance Analysis
+
+## Project Overview
+[cite_start]Proyek ini bertujuan untuk menganalisis performa penjualan perusahaan elektronik secara menyeluruh guna membantu pengambilan keputusan bisnis berbasis data[cite: 91, 92]. [cite_start]Analisis mencakup evaluasi tren penjualan dan profit, kategori produk terbaik, kontribusi wilayah (region), efektivitas channel penjualan, hingga performa pencapaian target oleh tim *sales representative*[cite: 91, 97].
+
+## Dataset
+[cite_start]Dataset yang digunakan merupakan *dummy dataset* dengan total keseluruhan 15.979 baris data[cite: 114]. [cite_start]Dataset ini terbagi ke dalam 5 tabel utama[cite: 114, 116]:
+* [cite_start]**transactions.csv** (12.580 baris): Data transaksi penjualan [cite: 116]
+* [cite_start]**customers.csv** (2.630 baris): Profil customer dan segmentasi [cite: 116]
+* [cite_start]**products.csv** (200 baris): Informasi produk, kategori, dan brand [cite: 116]
+* [cite_start]**stores.csv** (89 baris): Data toko, channel penjualan, dan lokasi [cite: 116]
+* [cite_start]**sales_targets.csv** (480 baris): Target sales dan profit [cite: 116]
+
+## Workflow & Tools
+[cite_start]Proyek *end-to-end* ini dieksekusi dengan tahapan berikut[cite: 4, 119]:
+1.  [cite_start]**SQL:** Menggabungkan dataset (*transactions, customers, products, stores*) menggunakan fungsi JOIN[cite: 132].
+2.  [cite_start]**Excel:** Melakukan *data cleaning*, termasuk membersihkan format teks, validasi data, penanganan *missing value*, dan penyesuaian tipe data[cite: 133, 134].
+3.  [cite_start]**Tableau:** Membuat visualisasi berupa *dashboard* interaktif (KPI, tren bulanan, filter, *chart* kategori/produk/region, dan komparasi target)[cite: 135].
+4.  [cite_start]**Insight & Recommendation:** Mengidentifikasi pola performa dan merumuskan rekomendasi bisnis[cite: 136, 137].
+
+## Key Insights
+* [cite_start]**Performa Utama (KPI):** Total *sales* mencapai \$15,37M dengan *profit* sebesar \$3,38M[cite: 150, 151, 156]. [cite_start]*Profit margin* berada di angka 22%, dengan total 12.500 pesanan dan *Average Order Value* (AOV) sebesar \$1,23K[cite: 152, 153, 154, 157, 158, 159].
+* [cite_start]**Tren Penjualan:** Penjualan melonjak tajam pada akhir tahun, mencapai puncak di bulan Desember (\$2,09M) dan November (\$1,92M)[cite: 176, 177, 192, 193]. [cite_start]Penurunan terdalam terjadi pada bulan Februari (\$0,74M)[cite: 175, 191].
+* [cite_start]**Produk & Kategori:** Kategori *Cameras* mendominasi dengan kontribusi penjualan sebesar 26,5%[cite: 233]. [cite_start]Secara spesifik, *Voltix Mirrorless Cameras Model 10* menjadi produk terlaris dengan total *sales* \$407,3K[cite: 220, 222].
+* [cite_start]**Performa Geografis:** California adalah wilayah dengan penyumbang *sales* tertinggi sebesar \$1,34M, disusul oleh Florida (\$1,03M) dan Texas (\$0,99M)[cite: 251, 257, 263, 266, 267].
+* **Efektivitas Channel:** *Marketplace* memimpin sebagai saluran penjualan tertinggi (30,67%), diikuti secara ketat oleh *Online Store* (30,40%) dan *Retail Store* (29,54%)[cite: 275, 282, 285, 286, 288].
+* [cite_start]**Performa Tim Sales:** Jordan Lewis membukukan *actual sales* tertinggi sebesar \$2,01M[cite: 297, 312].
+
+## Business Recommendations
+* [cite_start]**Optimalisasi Kampanye Akhir Tahun:** Maksimalkan strategi promosi dan ketersediaan stok pada periode November-Desember karena terbukti mengalami tren kenaikan *sales* yang signifikan[cite: 195, 197].
+* **Fokus Kategori & Cross-Selling:** Prioritaskan produk kamera (khususnya *Voltix Mirrorless Cameras Model 10*) sebagai fokus utama *campaign*[cite: 226, 245]. Gunakan produk berkinerja tinggi ini untuk strategi *bundling* dengan aksesoris elektronik lainnya[cite: 228].
+* [cite_start]**Peningkatan AOV:** Dorong peningkatan *Average Order Value* melalui promo minimum pembelian atau rekomendasi produk tambahan[cite: 163].
+* [cite_start]**Strategi Kewilayahan:** Perkuat distribusi pada wilayah performa tinggi (California, Texas, Florida), serta buat promo lokal dan penyesuaian stok khusus untuk mendongkrak penjualan di wilayah bawah seperti Arizona dan Colorado[cite: 270, 271].
+* **Coaching Tim Sales:** Jadikan strategi penjualan dari Jordan Lewis dan Casey Hill sebagai acuan praktik terbaik untuk memberikan *coaching* kepada *sales representative* yang pencapaiannya masih rendah[cite: 316, 317].
+
+## Dashboard
+![Dashboard Preview](Masukkan-URL-Gambar-Screenshot-Dashboard-Di-Sini.png)
+
+Cek interaktivitas dashboard secara penuh melalui tautan berikut:
+[**>> Lihat Dashboard Tableau <<**](Masukkan-Link-Tableau-Public-Anda-Di-Sini)
 
-![Project Banner](https://img.shields.io/badge/Status-Completed-brightgreen) ![SQL](https://img.shields.io/badge/Tool-SQL-blue) ![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
-
-> **End-to-end Data Analyst Portfolio Project** — menganalisis performa penjualan perusahaan elektronik menggunakan SQL, Excel, dan Tableau untuk menghasilkan insight dan rekomendasi bisnis berbasis data.
-
-🔗 **[View Interactive Dashboard →](https://public.tableau.com/)** *(replace with your Tableau Public link)*
-
----
-
-## 📌 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Business Questions](#-business-questions)
-- [Dataset](#-dataset)
-- [Project Workflow](#-project-workflow)
-- [Key Findings & Insights](#-key-findings--insights)
-- [Business Recommendations](#-business-recommendations)
-- [Dashboard Preview](#-dashboard-preview)
-- [Tools & Technologies](#-tools--technologies)
-- [Contact](#-contact)
-
----
-
-## 📋 Project Overview
-
-Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — mulai dari tren sales dan profit, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan. Analisis ini bertujuan membantu perusahaan mengambil keputusan bisnis berbasis data.
-
-**Tujuan utama project ini:**
-- Mengukur performa bisnis melalui KPI utama (sales, profit, order, profit margin, AOV)
-- Menganalisis tren penjualan bulanan untuk menemukan pola naik-turun
-- Mengidentifikasi kategori produk, produk, dan region dengan kontribusi terbesar
-- Mengevaluasi pencapaian actual vs target sales per sales representative
-- Memberikan rekomendasi bisnis yang actionable
-
----
-
-## ❓ Business Questions
-
-| # | Pertanyaan |
-|---|-----------|
-| 01 | Bagaimana performa bisnis berdasarkan KPI utama? |
-| 02 | Bagaimana tren sales setiap bulan? |
-| 03 | Sales representative mana yang mencapai target? |
-| 04 | Kategori produk apa yang memiliki sales tertinggi? |
-| 05 | Produk mana yang menjadi Top 10 sales tertinggi? |
-| 06 | Region mana yang memberi kontribusi sales terbesar? |
-| 07 | Channel penjualan mana yang paling efektif? |
-
----
-
-## 🗂️ Dataset
-
-Dataset yang digunakan adalah **dummy dataset Electronics Sales** yang terdiri dari 5 tabel utama dengan total **15.979 baris data**.
-
-| File / Tabel | Jumlah Baris | Keterangan |
-|---|---|---|
-| `transactions.csv` | 12,580 | Data transaksi penjualan |
-| `customers.csv` | 2,630 | Profil customer dan segment |
-| `products.csv` | 200 | Informasi produk, kategori, brand |
-| `stores.csv` | 89 | Data toko, channel, lokasi |
-| `sales_targets.csv` | 480 | Target sales dan profit per sales rep |
-
----
-
-## ⚙️ Project Workflow
-
-```
-1. SQL → 2. Excel → 3. Tableau → 4. Insight & Recommendation
-```
-
-**Step 1 — SQL (Join Dataset)**
-Menggabungkan tabel `transactions`, `customers`, `products`, dan `stores` menggunakan JOIN untuk membentuk satu dataset analisis yang komprehensif.
-
-**Step 2 — Excel (Data Cleaning)**
-Membersihkan format teks, validasi data, handling missing value, dan memastikan tipe data sudah sesuai sebelum divisualisasikan.
-
-**Step 3 — Tableau (Dashboard)**
-Membangun dashboard interaktif dengan KPI cards, filter bulan dan region, trend chart, dan berbagai visualisasi performa produk, channel, serta pencapaian target.
-
-**Step 4 — Insight & Recommendation**
-Membaca pola dari setiap visualisasi dan menyusun rekomendasi bisnis yang dapat langsung ditindaklanjuti.
-
----
-
-## 📈 Key Findings & Insights
-
-### 🔢 KPI Performance Summary
-
-| KPI | Value |
-|---|---|
-| Total Sales | $15.37M |
-| Total Profit | $3.38M |
-| Total Orders | 12,500 |
-| Profit Margin | 22% |
-| Average Order Value | $1.23K |
-
-> Profit margin 22% menunjukkan bisnis dalam kondisi sehat dan menguntungkan.
-
----
-
-### 📅 Monthly Sales Trend
-
-- Penjualan terendah terjadi di **Februari ($0.74M)**
-- Sales bergerak stabil di kisaran **$1.0M–$1.5M** sepanjang pertengahan tahun
-- **Lonjakan signifikan terjadi di akhir tahun** — November ($1.92M) dan Desember ($2.09M) menjadi bulan terbaik
-
----
-
-### 🏆 Top 10 Products
-
-| Rank | Product | Sales |
-|---|---|---|
-| 1 | Voltix Mirrorless Cameras Model 10 | $407.3K |
-| 2 | Zenith Mirrorless Cameras Model 09 | $301.1K |
-| 3 | Orion Refrigerators Model 02 | $283.0K |
-| 4 | ClearSound DSLR Cameras Model 02 | $273.4K |
-| 5 | Orion Refrigerators Model 04 | $273.0K |
-
-> Kategori **Cameras mendominasi** daftar Top 10 dengan beberapa model di posisi teratas.
-
----
-
-### 🗂️ Sales by Category
-
-| Category | Contribution |
-|---|---|
-| Cameras | 26.5% |
-| Appliances | 22.7% |
-| Home Entertainment | 21.0% |
-| Computers | 17.5% |
-| Mobile Devices | 12.3% |
-
-> **Cameras** adalah kategori dengan kontribusi terbesar. **Mobile Devices** perlu evaluasi lebih lanjut karena kontribusinya paling rendah.
-
----
-
-### 🗺️ Sales by Region
-
-- **California** menjadi region terkuat dengan **$1.34M**
-- **Florida** di posisi kedua ($1.03M), diikuti **Texas** ($0.99M)
-- **Arizona dan Colorado** mencatat sales terendah (~$0.43M)
-
----
-
-### 📡 Sales by Channel
-
-| Channel | Share |
-|---|---|
-| Marketplace | 30.67% |
-| Online Store | 30.40% |
-| Retail Store | 29.54% |
-| Social Commerce | 4.81% |
-| B2B Sales | 4.59% |
-
-> Tiga channel utama (Marketplace, Online Store, Retail Store) menguasai **~90%** total penjualan.
-
----
-
-### 👤 Actual vs Target — Sales Representative
-
-| Sales Rep | Actual Sales |
-|---|---|
-| Jordan Lewis | $2.01M |
-| Casey Hill | $2.00M |
-| Morgan Clark | $1.96M |
-| Jamie Wilson | $1.92M |
-| Riley Adams | $1.91M |
-| Taylor Brooks | $1.83M |
-| Alex Reed | $1.82M |
-
----
-
-## 💡 Business Recommendations
-
-**KPI & Revenue**
-- Pertahankan produk dan channel dengan kontribusi sales terbesar
-- Tingkatkan Average Order Value melalui bundling product dan promo minimum purchase
-
-**Monthly Trend**
-- Maksimalkan strategi promosi di **November–Desember** (peak season)
-- Evaluasi penyebab penurunan di **Februari dan Oktober**
-
-**Product & Category**
-- Jadikan **Voltix Mirrorless Cameras Model 10** sebagai hero product untuk campaign utama
-- Evaluasi strategi harga dan promosi untuk kategori **Mobile Devices**
-
-**Region**
-- Perkuat distribusi dan promosi di **California, Florida, dan Texas**
-- Jalankan campaign lokal khusus untuk **Arizona dan Colorado**
-
-**Channel**
-- Fokus pada tiga channel utama: Marketplace, Online Store, dan Retail Store
-- Kembangkan **B2B Sales dan Social Commerce** melalui targeting customer yang lebih spesifik
-
-**Sales Team**
-- Jadikan strategi Jordan Lewis dan Casey Hill sebagai referensi best practice
-- Berikan coaching kepada sales representative dengan performa di bawah rata-rata
-
----
-
-## 📊 Dashboard Preview
-
-*(Add screenshot of your Tableau dashboard here)*
-
-```
-![Dashboard Preview](dashboard-preview.png)
-```
-
-🔗 **[Access Full Interactive Dashboard →](https://public.tableau.com/)** *(replace with your link)*
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool | Kegunaan |
-|---|---|
-| **SQL** | Data joining, querying, dan agregasi dari 5 tabel dataset |
-| **Microsoft Excel** | Data cleaning, validasi, dan preprocessing |
-| **Tableau** | Visualisasi data dan pembuatan interactive dashboard |
-
----
-
-## 👤 Contact
-
-**Hernan Yudistira**
-Data Analyst
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)
-
----
-
-*⭐ If you find this project useful, feel free to give it a star!*
