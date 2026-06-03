@@ -1,4 +1,4 @@
-#Electronics Sales Performance Analysis
+## Electronics Sales Performance Analysis
 
 End-to-end Data Analyst Portfolio Project menganalisis performa penjualan perusahaan elektronik menggunakan SQL, Excel, dan Tableau.
 ---
