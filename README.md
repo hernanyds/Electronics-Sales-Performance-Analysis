@@ -21,6 +21,6 @@ SQL (Join) → Excel (Cleaning) → Tableau (Dashboard) → Insight & Recommenda
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img width="1232" height="793" alt="Dashboard" src="https://github.com/user-attachments/assets/caf879c7-49a7-45fc-b14f-09bf95d878e5" />
