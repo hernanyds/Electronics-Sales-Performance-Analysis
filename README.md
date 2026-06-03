@@ -1,5 +1,6 @@
 ## Electronics Sales Performance Analysis
 
+PPT_Electronics.pdf
 Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan — untuk mendukung pengambilan keputusan berbasis data.
 
 ---
