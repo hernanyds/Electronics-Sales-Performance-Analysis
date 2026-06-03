@@ -7,13 +7,13 @@ Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh dari t
 
 ---
 
-## 🗂️ Dataset
+## Dataset :
 5 tabel utama | 15.979 baris data
 `transactions.csv` · `customers.csv` · `products.csv` · `stores.csv` · `sales_targets.csv`
 
 ---
 
-## ⚙️ Workflow
+## Workflow :
 
 ```
 SQL (Join) → Excel (Cleaning) → Tableau (Dashboard) → Insight & Recommendation
