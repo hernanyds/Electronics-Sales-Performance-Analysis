@@ -1,14 +1,9 @@
-# 📊 Electronics Sales Performance Analysis
-
-![SQL](https://img.shields.io/badge/Tool-SQL-blue) ![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
+#Electronics Sales Performance Analysis
 
 End-to-end Data Analyst Portfolio Project menganalisis performa penjualan perusahaan elektronik menggunakan SQL, Excel, dan Tableau.
-
-🔗 **[View Interactive Dashboard →](https://public.tableau.com/)** *(replace with your link)*
-
 ---
 
-## 📋 Overview
+## Overview
 
 Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan — untuk mendukung pengambilan keputusan berbasis data.
 
@@ -32,9 +27,7 @@ SQL (Join) → Excel (Cleaning) → Tableau (Dashboard) → Insight & Recommenda
 
 ## 📊 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
-
-🔗 **[Access Full Interactive Dashboard →](https://public.tableau.com/)**
+<img width="1232" height="793" alt="Dashboard" src="https://github.com/user-attachments/assets/caf879c7-49a7-45fc-b14f-09bf95d878e5" />
 
 ---
 
