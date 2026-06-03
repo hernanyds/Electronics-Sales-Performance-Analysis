@@ -1,10 +1,5 @@
 ## Electronics Sales Performance Analysis
 
-End-to-end Data Analyst Portfolio Project menganalisis performa penjualan perusahaan elektronik menggunakan SQL, Excel, dan Tableau.
----
-
-## Overview
-
 Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan — untuk mendukung pengambilan keputusan berbasis data.
 
 ---
