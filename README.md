@@ -1,8 +1,9 @@
 ## Electronics Sales Performance Analysis
 
+PPT : 
 https://github.com/hernanyds/Electronics-Sales-Performance-Analysis/blob/5fe5e336e74b62fb31adec42a090d11c0dc05f37/PPT_Electronics.pdf
 
-Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan — untuk mendukung pengambilan keputusan berbasis data.
+Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan untuk mendukung pengambilan keputusan berbasis data.
 
 ---
 
