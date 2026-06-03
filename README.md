@@ -1,15 +1,9 @@
 ## Electronics Sales Performance Analysis
-
 Perusahaan elektronik ingin memahami performa penjualan secara menyeluruh — dari tren sales, kategori produk terbaik, kontribusi region, hingga efektivitas channel penjualan — untuk mendukung pengambilan keputusan berbasis data.
-
 ---
-
 ## 🗂️ Dataset
-
 5 tabel utama | 15.979 baris data
-
 `transactions.csv` · `customers.csv` · `products.csv` · `stores.csv` · `sales_targets.csv`
-
 ---
 
 ## ⚙️ Workflow
